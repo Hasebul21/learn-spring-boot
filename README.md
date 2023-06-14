@@ -61,6 +61,40 @@
 ## Jpa and Hibernate
 - **[java brains](https://www.javabrains.io/courses/take/jpa-and-hibernate-essentials/lessons/24784916-agenda)**
 
+## Junit 5
+  - **[java brains](https://www.javabrains.io/courses/take/junit-basics/lessons/11023096-introduction-and-agenda)**
+  
+## Mockito Basics
+-  **[Getting Started with Mockito @Mock, @Spy, @Captor and @InjectMocks](https://www.baeldung.com/mockito-annotations)(popular)**
+-  **[Quick Guide to BDDMockito](https://www.baeldung.com/bdd-mockito)**
+-  **[Mockito’s Mock Methods](https://www.baeldung.com/mockito-mock-methods)**
+-  **[Mockito ArgumentMatchers](https://www.baeldung.com/mockito-argument-matchers)(popular)**
+-  **[Mocking Exception Throwing using Mockito](https://www.baeldung.com/mockito-exceptions)(popular)**
+-  **[Mockito’s Java 8 Features](https://www.baeldung.com/mockito-2-java-8)**
+-  **[Mockito When/Then Cookbook](https://www.baeldung.com/mockito-behavior)**
+-  **[Mockito Verify Cookbook](https://www.baeldung.com/mockito-verify)(popular)**
+
+## Mockito Advanced
+-  **[Mocking Void Methods with Mockito](https://www.baeldung.com/mockito-void-methods)(popular)**
+-  **[Mock Final Classes and Methods with Mockito](https://www.baeldung.com/mockito-final)**
+-  **[Lazy Verification with Mockito 2](https://www.baeldung.com/mockito-2-lazy-verification)**
+-  **[Testing Callbacks with Mockito](https://www.baeldung.com/mockito-callbacks)(popular)**
+-  **[Warning: “The type MockitoJUnitRunner is deprecated”](https://www.baeldung.com/mockito-deprecated-mockitojunitrunner)(popular)**
+-  **[Kotlin with Mockito](https://www.baeldung.com/kotlin-mockito)(popular)**
+-  **[Mocking Static Methods With Mockito](https://www.baeldung.com/mockito-mock-static-methods)(popular)**
+-  **[Mockito – Using Spies](https://www.baeldung.com/mockito-spy)(popular)**
+-  **[Using Mockito ArgumentCaptor](https://www.baeldung.com/mockito-argumentcaptor)(popular)**
+
+## Mockito Integration With Other Libraries
+-  **[Injecting Mockito Mocks into Spring Beans](https://www.baeldung.com/injecting-mocks-in-spring)**
+-  **[Mockito.mock() vs @Mock vs @MockBean](https://www.baeldung.com/java-spring-mockito-mock-mockbean)(popular)**
+-  **[Mocking a RestTemplate in Spring](https://www.baeldung.com/spring-mock-rest-template)(popular)**
+-  **[Mockito and JUnit 5 – Using ExtendWith](https://www.baeldung.com/mockito-junit-5-extension)(popular)**
+-  **[Testing an Abstract Class With JUnit](https://www.baeldung.com/junit-test-abstract-class)(popular)**
+-  **[Mockito vs EasyMock vs JMockit](https://www.baeldung.com/mockito-vs-easymock-vs-jmockit)**
+-  **[Mocking of Private Methods Using PowerMock](https://www.baeldung.com/powermock-private-method)**
+-  **[Introduction to PowerMock](https://www.baeldung.com/intro-to-powermock)**
+
 ## Defining Entities
 ## **- [** Defining JPA Entities**](https://www.baeldung.com/jpa-entities)
   - [** Hibernate Entity Lifecycle**](https://www.baeldung.com/hibernate-entity-lifecycle)
