@@ -1,6 +1,6 @@
 ## REST API Basics
-### **[The Spring @Controller and @RestController Annotations](https://www.baeldung.com/spring-controller-vs-restcontroller)**
   -  **[java_brains_Spring Boot Quick Start 1 - Introduction](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)**
+  -  **[The Spring @Controller and @RestController Annotations](https://www.baeldung.com/spring-controller-vs-restcontroller)**
   -  **[Spring’s RequestBody and ResponseBody Annotations](https://www.baeldung.com/spring-request-response-body)**
   -  **[Spring @PathVariable Annotation](https://www.baeldung.com/spring-pathvariable)**
   -  **[Spring @RequestParam Annotation](https://www.baeldung.com/spring-request-param)**
@@ -13,7 +13,7 @@
   -  **[Error Handling for REST](https://www.baeldung.com/exception-handling-for-rest-with-spring "Exception Handling for REST with Spring 3")(popular)**
 
 ## Basic Spring MVC Annotations
-##  **[Spring Web Annotations](https://www.baeldung.com/spring-mvc-annotations)**
+  -  **[Spring Web Annotations](https://www.baeldung.com/spring-mvc-annotations)**
   -  **[@RequestMapping in Spring](https://www.baeldung.com/spring-requestmapping)(popular)**
   -  **[Spring @RequestParam Annotation](https://www.baeldung.com/spring-request-param)**
   -  **[The @ModelAttribute Annotation](https://www.baeldung.com/spring-mvc-and-the-modelattribute-annotation)**
@@ -23,7 +23,7 @@
   -  **[Spring @RequestMapping New Shortcut Annotations](https://www.baeldung.com/spring-new-requestmapping-shortcuts)**
 
 ## Basics Concepts in Spring MVC
-## -  **[Spring MVC Tutorial](https://www.baeldung.com/spring-mvc-tutorial)**
+  -  **[Spring MVC Tutorial](https://www.baeldung.com/spring-mvc-tutorial)**
   -  **[A Guide to the ViewResolver](https://www.baeldung.com/spring-mvc-view-resolver-tutorial)**
   -  **[Getting Started with Forms](https://www.baeldung.com/spring-mvc-form-tutorial)**
   -  **[Introduction to Using Thymeleaf in Spring](https://www.baeldung.com/thymeleaf-in-spring-mvc)**
@@ -34,8 +34,8 @@
   -  **[Spring @PathVariable Annotation](https://www.baeldung.com/spring-pathvariable)**
   -  **[HTTP PUT vs HTTP PATCH in a REST API](https://www.baeldung.com/http-put-patch-difference-spring)**
 
- ## **DI Basics**
-###  **[Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)**
+## **DI Basics**
+  - **[Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)**
   -  **[Constructor Dependency Injection in Spring](https://www.baeldung.com/constructor-injection-in-spring)**
   -  **[Guide to Spring @Autowired](https://www.baeldung.com/spring-autowire)**
   -  **[Wiring in Spring: @Autowired, @Resource and @Inject](https://www.baeldung.com/spring-annotations-resource-inject-autowire)**
@@ -45,7 +45,7 @@
   -  **[Quick Guide to Spring Bean Scopes](https://www.baeldung.com/spring-bean-scopes)**
 
 ## DI Advanced Topics
-###  **[Spring – Injecting Collections](https://www.baeldung.com/spring-injecting-collections)**
+  - **[Spring – Injecting Collections](https://www.baeldung.com/spring-injecting-collections)**
   -  **[Spring Autowiring of Generic Types](https://www.baeldung.com/spring-autowire-generics)**
   -  **[Constructor Injection in Spring with Lombok](https://www.baeldung.com/spring-injection-lombok)**
   -  **[How to use the Spring FactoryBean?](https://www.baeldung.com/spring-factorybean)**
@@ -139,15 +139,16 @@
 ## - [** Sorting with JPA**](https://www.baeldung.com/jpa-sort)
   - [** JPA Pagination**](https://www.baeldung.com/jpa-pagination)
   - [** Hibernate Pagination**](https://www.baeldung.com/hibernate-pagination)
-  - [** JPA Criteria Queries**](https://www.baeldung.com/hibernate-criteria-queries)![String Tools - icon](https://www.baeldung.com/wp-content/uploads/2019/05/icon_string_tools.png)
+  - [** JPA Criteria Queries**](https://www.baeldung.com/hibernate-criteria-queries)
+  - 
 ## Query Results
-## - [** A Guide to SqlResultSetMapping**](https://www.baeldung.com/jpa-sql-resultset-mapping)
+  [** A Guide to SqlResultSetMapping**](https://www.baeldung.com/jpa-sql-resultset-mapping)
   - [** Customizing the Result of JPA Queries with Aggregation Functions**](https://www.baeldung.com/jpa-queries-custom-result-with-aggregation-functions)
-  -
+  - 
 ## Write Operations
-## - [** INSERT Statement in JPA**](https://www.baeldung.com/jpa-insert)
-  - [** Batch Insert/Update with Hibernate/JPA**](https://www.baeldung.com/jpa-hibernate-batch-insert-update)
-  - [** Deleting Objects with Hibernate**](https://www.baeldung.com/delete-with-hibernate)
-  - [** Hibernate: save, persist, update, merge, saveOrUpdate**](https://www.baeldung.com/hibernate-save-persist-update-merge-saveorupdate)
+  - **[INSERT Statement in JPA](https://www.baeldung.com/jpa-insert)**
+  - **[Batch Insert/Update with Hibernate/JPA](https://www.baeldung.com/jpa-hibernate-batch-insert-update)**
+  - **[Deleting Objects with Hibernate](https://www.baeldung.com/delete-with-hibernate)**
+  - **[Hibernate: save, persist, update, merge, saveOrUpdate](https://www.baeldung.com/hibernate-save-persist-update-merge-saveorupdate)**
 
 
