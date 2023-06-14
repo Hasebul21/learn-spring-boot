@@ -59,10 +59,10 @@
   -  **[Spring NoSuchBeanDefinitionException](https://www.baeldung.com/spring-nosuchbeandefinitionexception)**
 
 ## Jpa and Hibernate
-- **[java brains](https://www.javabrains.io/courses/take/jpa-and-hibernate-essentials/lessons/24784916-agenda)**
+- **[java brains_JPA and Hibernate Essentials](https://www.javabrains.io/courses/take/jpa-and-hibernate-essentials/lessons/24784916-agenda)**
 
 ## Junit 5
-  - **[java brains](https://www.javabrains.io/courses/take/junit-basics/lessons/11023096-introduction-and-agenda)**
+  - **[java brains_JUnit Basics](https://www.javabrains.io/courses/take/junit-basics/lessons/11023096-introduction-and-agenda)**
   
 ## Mockito Basics
 -  **[Getting Started with Mockito @Mock, @Spy, @Captor and @InjectMocks](https://www.baeldung.com/mockito-annotations)(popular)**
@@ -97,18 +97,18 @@
 
 ## Defining Entities
 ## **- [** Defining JPA Entities**](https://www.baeldung.com/jpa-entities)
-  - [** Hibernate Entity Lifecycle**](https://www.baeldung.com/hibernate-entity-lifecycle)
-  - [** JPA Entity Lifecycle Events**](https://www.baeldung.com/jpa-entity-lifecycle-events)
-  - [** Default Column Values in JPA**](https://www.baeldung.com/jpa-default-column-values)
-  - [** JPA @Basic Annotation**](https://www.baeldung.com/jpa-basic-annotation)
-  - [** Mapping Entity Class Names to SQL Table Names with JPA**](https://www.baeldung.com/jpa-entity-table-names)
-  - [** Difference Between @Size, @Length, and @Column(length=value)**](https://www.baeldung.com/jpa-size-length-column-differences)
-  - [** JPA Entity Equality**](https://www.baeldung.com/jpa-entity-equality)
-  - [** JPA @Embedded And @Embeddable**](https://www.baeldung.com/jpa-embedded-embeddable)
-  - [** JPA Attribute Converters**](https://www.baeldung.com/jpa-attribute-converters)
-  - [** Hibernate @NotNull vs @Column(nullable = false)**](https://www.baeldung.com/hibernate-notnull-vs-nullable)
-  - [** Defining Unique Constraints in JPA**](https://www.baeldung.com/jpa-unique-constraints)
-  - [** JPA Entities and the Serializable Interface**](https://www.baeldung.com/jpa-entities-serializable)![series structure patterns - icon](https://www.baeldung.com/wp-content/uploads/2019/10/icon_series_structure_patterns.png)**
+  - **[Hibernate Entity Lifecycle](https://www.baeldung.com/hibernate-entity-lifecycle)**
+  - [** JPA Entity Lifecycle Events**](https://www.baeldung.com/jpa-entity-lifecycle-events)**
+  - [** Default Column Values in JPA**](https://www.baeldung.com/jpa-default-column-values)**
+  - [** JPA @Basic Annotation**](https://www.baeldung.com/jpa-basic-annotation)**
+  - [** Mapping Entity Class Names to SQL Table Names with JPA**](https://www.baeldung.com/jpa-entity-table-names)**
+  - [** Difference Between @Size, @Length, and @Column(length=value)**](https://www.baeldung.com/jpa-size-length-column-differences)**
+  - [** JPA Entity Equality**](https://www.baeldung.com/jpa-entity-equality)**
+  - [** JPA @Embedded And @Embeddable**](https://www.baeldung.com/jpa-embedded-embeddable)**
+  - [** JPA Attribute Converters**](https://www.baeldung.com/jpa-attribute-converters)**
+  - [** Hibernate @NotNull vs @Column(nullable = false)**](https://www.baeldung.com/hibernate-notnull-vs-nullable)**
+  - **[Defining Unique Constraints in JPA**](https://www.baeldung.com/jpa-unique-constraints)**
+  - **[JPA Entities and the Serializable Interface](https://www.baeldung.com/jpa-entities-serializable)**
 ## Entity Relationships
 ## - [** One-to-One Relationship in JPA**](https://www.baeldung.com/jpa-one-to-one)
   - [** Many-To-Many Relationship in JPA**](https://www.baeldung.com/jpa-many-to-many)
