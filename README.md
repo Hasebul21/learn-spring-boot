@@ -11,6 +11,7 @@
   -  **[Building a REST API](https://www.baeldung.com/building-a-restful-web-service-with-spring-and-java-based-configuration)**
   -  **[Entity To DTO Conversion for a Spring REST API](https://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application "Exception Handling for REST with Spring 3")**
   -  **[Error Handling for REST](https://www.baeldung.com/exception-handling-for-rest-with-spring "Exception Handling for REST with Spring 3")(popular)**
+  -  **[Introduction to AOP](https://www.youtube.com/watch?v=QdyLsX0nG30&list=PLE37064DE302862F8)(popular)**
 
 ## Basic Spring MVC Annotations
   -  **[Spring Web Annotations](https://www.baeldung.com/spring-mvc-annotations)**
@@ -33,6 +34,7 @@
   -  **[JSON Parameters with Spring MVC](https://www.baeldung.com/spring-mvc-send-json-parameters)**
   -  **[Spring @PathVariable Annotation](https://www.baeldung.com/spring-pathvariable)**
   -  **[HTTP PUT vs HTTP PATCH in a REST API](https://www.baeldung.com/http-put-patch-difference-spring)**
+  -  **[udemy.com/course/spring-hibernate-tutorial](https://www.udemy.com/course/spring-hibernate-tutorial/learn/lecture/5117014?start=0#overview)**
 
 ## **DI Basics**
   - **[Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)**
