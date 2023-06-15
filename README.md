@@ -75,6 +75,43 @@
 -  **[Mockito’s Java 8 Features](https://www.baeldung.com/mockito-2-java-8)**
 -  **[Mockito When/Then Cookbook](https://www.baeldung.com/mockito-behavior)**
 -  **[Mockito Verify Cookbook](https://www.baeldung.com/mockito-verify)(popular)**
+-  
+## Spring Core Basics
+- **[Why Choose Spring as Your Java Framework?](https://www.baeldung.com/spring-why-to-choose)**
+- **[Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)**
+- **[Constructor Dependency Injection in Spring](https://www.baeldung.com/constructor-injection-in-spring)**
+- **[What is a Spring Bean?](https://www.baeldung.com/spring-bean)**
+- **[Spring Bean Scopes](https://www.baeldung.com/spring-bean-scopes)**
+- **[Spring Bean Annotations](https://www.baeldung.com/spring-bean-annotations)**
+- **[Spring @Autowired Annotation](https://www.baeldung.com/spring-autowire)**
+- **[Wiring in Spring: @Autowired, @Resource and @Inject](https://www.baeldung.com/spring-annotations-resource-inject-autowire)**
+- **[Spring @Qualifier Annotation](https://www.baeldung.com/spring-qualifier-annotation)**
+- **[@Component vs @Repository and @Service in Spring](https://www.baeldung.com/spring-component-repository-service)**
+- **[Properties with Spring](https://www.baeldung.com/properties-with-spring)(popular)**
+- **[Spring @Value Annotation](https://www.baeldung.com/spring-value-annotation)**
+- **[Spring Profiles](https://www.baeldung.com/spring-profiles)(popular)**
+- **[Spring @Scheduled Annotation](https://www.baeldung.com/spring-scheduled-tasks)**
+- **[Java Brains Spring Tutorial](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)**
+
+## Jackson
+## **Basic Jackson Marshalling**
+
+## - **[Jackson Annotation Examples](https://www.baeldung.com/jackson-annotations)(popular)**
+- **[Intro to the Jackson ObjectMapper](https://www.baeldung.com/jackson-object-mapper-tutorial)(popular)**
+- **[Jackson Ignore Properties on Marshalling](https://www.baeldung.com/jackson-ignore-properties-on-serialization)**
+- **[Ignore Null Fields with Jackson](https://www.baeldung.com/jackson-ignore-null-fields)(popular)**
+- **[Jackson - Change Name of Field](https://www.baeldung.com/jackson-name-of-property)**
+- **[Jackson – Decide What Fields Get Serialized/Deserialized](https://www.baeldung.com/jackson-field-serializable-deserializable-or-not)**
+- **[XML Serialization and Deserialization with Jackson](https://www.baeldung.com/jackson-xml-serialization-and-deserialization)**
+- **[Jackson – Marshall String to JsonNode](https://www.baeldung.com/jackson-json-to-jsonnode)**
+- **[Using Optional with Jackson](https://www.baeldung.com/jackson-optional)**
+
+
+## Basic Jackson Unmarshalling
+
+- **[Jackson - Unmarshalling JSON with Unknown Properties](https://www.baeldung.com/jackson-deserialize-json-unknown-properties)**
+- **[Jackson vs Gson](https://www.baeldung.com/jackson-vs-gson)**
+- **[Jackson Serialization](https://www.youtube.com/watch?v=5dnJusuGbIY&list=PLjXUjSTUHs0TQl-W-B5u-d6acs23Y-1te)**
 
 ## Mockito Advanced
 -  **[Mocking Void Methods with Mockito](https://www.baeldung.com/mockito-void-methods)(popular)**
