@@ -56,7 +56,7 @@
   -  **[Inject a Map from a YAML File with Spring](https://www.baeldung.com/spring-yaml-inject-map)**
  
 ## DI Exceptions
-### **[Unsatisfied Dependency in Spring](https://www.baeldung.com/spring-unsatisfied-dependency)**
+  - **[Unsatisfied Dependency in Spring](https://www.baeldung.com/spring-unsatisfied-dependency)**
   -  **[Circular Dependencies in Spring](https://www.baeldung.com/circular-dependencies-in-spring)**
   -  **[Spring NoSuchBeanDefinitionException](https://www.baeldung.com/spring-nosuchbeandefinitionexception)**
 
@@ -95,8 +95,7 @@
 
 ## Jackson
 ## **Basic Jackson Marshalling**
-
-## - **[Jackson Annotation Examples](https://www.baeldung.com/jackson-annotations)(popular)**
+- **[Jackson Annotation Examples](https://www.baeldung.com/jackson-annotations)(popular)**
 - **[Intro to the Jackson ObjectMapper](https://www.baeldung.com/jackson-object-mapper-tutorial)(popular)**
 - **[Jackson Ignore Properties on Marshalling](https://www.baeldung.com/jackson-ignore-properties-on-serialization)**
 - **[Ignore Null Fields with Jackson](https://www.baeldung.com/jackson-ignore-null-fields)(popular)**
