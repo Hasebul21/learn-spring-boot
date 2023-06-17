@@ -55,7 +55,7 @@
   -  **[udemy.com/course/spring-hibernate-tutorial](https://www.udemy.com/course/spring-hibernate-tutorial/learn/lecture/5117014?start=0#overview)**
 
 ## DI Basics
-  - **[Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)**
+  -  **[Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)**
   -  **[Constructor Dependency Injection in Spring](https://www.baeldung.com/constructor-injection-in-spring)**
   -  **[Guide to Spring @Autowired](https://www.baeldung.com/spring-autowire)**
   -  **[Wiring in Spring: @Autowired, @Resource and @Inject](https://www.baeldung.com/spring-annotations-resource-inject-autowire)**
@@ -137,7 +137,7 @@
 -  **[Introduction to PowerMock](https://www.baeldung.com/intro-to-powermock)**
 
 ## Defining Entities
-  - **[Defining JPA Entities](https://www.baeldung.com/jpa-entities)
+  - **[Defining JPA Entities](https://www.baeldung.com/jpa-entities)**
   - **[Hibernate Entity Lifecycle](https://www.baeldung.com/hibernate-entity-lifecycle)**
   - **[JPA Entity Lifecycle Events](https://www.baeldung.com/jpa-entity-lifecycle-events)**
   - **[Default Column Values in JPA](https://www.baeldung.com/jpa-default-column-values)**
@@ -150,7 +150,7 @@
   - **[Hibernate @NotNull vs @Column(nullable = false)](https://www.baeldung.com/hibernate-notnull-vs-nullable)**
   - **[Defining Unique Constraints in JPA](https://www.baeldung.com/jpa-unique-constraints)**
   - **[JPA Entities and the Serializable Interface](https://www.baeldung.com/jpa-entities-serializable)**
-  -
+  
 ## Entity Relationships
   - [** One-to-One Relationship in JPA**](https://www.baeldung.com/jpa-one-to-one)
   - [** Many-To-Many Relationship in JPA**](https://www.baeldung.com/jpa-many-to-many)
