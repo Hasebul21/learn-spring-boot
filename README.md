@@ -177,14 +177,14 @@
   - **[Hibernate Named Query](https://www.baeldung.com/hibernate-named-query)**
   - **[Combining JPA And/Or Criteria Predicates](https://www.baeldung.com/jpa-and-or-criteria-predicates)**
   - **[Criteria API – An Example of IN Expressions](https://www.baeldung.com/jpa-criteria-api-in-expressions)**
-  - **[JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)
+  - **[JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)**
   
 ## Pagination and Sorting
   - **[Sorting with JPA](https://www.baeldung.com/jpa-sort)**
   - **[JPA Pagination](https://www.baeldung.com/jpa-pagination)**
   - **[Hibernate Pagination](https://www.baeldung.com/hibernate-pagination)**
   - **[JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)**
-  - 
+
 ## Query Results
   - **[A Guide to SqlResultSetMapping](https://www.baeldung.com/jpa-sql-resultset-mapping)**
   - **[Customizing the Result of JPA Queries with Aggregation Functions](https://www.baeldung.com/jpa-queries-custom-result-with-aggregation-functions)**
