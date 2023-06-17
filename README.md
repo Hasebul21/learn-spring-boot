@@ -54,7 +54,7 @@
   -  **[HTTP PUT vs HTTP PATCH in a REST API](https://www.baeldung.com/http-put-patch-difference-spring)**
   -  **[udemy.com/course/spring-hibernate-tutorial](https://www.udemy.com/course/spring-hibernate-tutorial/learn/lecture/5117014?start=0#overview)**
 
-## **DI Basics**
+## DI Basics
   - **[Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)**
   -  **[Constructor Dependency Injection in Spring](https://www.baeldung.com/constructor-injection-in-spring)**
   -  **[Guide to Spring @Autowired](https://www.baeldung.com/spring-autowire)**
@@ -68,6 +68,7 @@
 ## Jpa and Hibernate
 - **[java brains_JPA and Hibernate Essentials](https://www.javabrains.io/courses/take/jpa-and-hibernate-essentials/lessons/24784916-agenda)**
 - **[Telusko Hibernate Tutorial | Full Course](https://www.youtube.com/watch?v=JR7-EdxDSf0)**
+
 ## Junit 5
   - **[java brains_JUnit Basics](https://www.javabrains.io/courses/take/junit-basics/lessons/11023096-introduction-and-agenda)**
   
@@ -80,20 +81,20 @@
 -  **[Mockito’s Java 8 Features](https://www.baeldung.com/mockito-2-java-8)**
 -  **[Mockito When/Then Cookbook](https://www.baeldung.com/mockito-behavior)**
 -  **[Mockito Verify Cookbook](https://www.baeldung.com/mockito-verify)(popular)**
--  
+
 ## DI Advanced Topics
   - **[Spring – Injecting Collections](https://www.baeldung.com/spring-injecting-collections)**
-  -  **[Spring Autowiring of Generic Types](https://www.baeldung.com/spring-autowire-generics)**
-  -  **[Constructor Injection in Spring with Lombok](https://www.baeldung.com/spring-injection-lombok)**
-  -  **[How to use the Spring FactoryBean?](https://www.baeldung.com/spring-factorybean)**
-  -  **[@Lookup Annotation in Spring](https://www.baeldung.com/spring-lookup)**
-  -  **[Injecting Prototype Beans into a Singleton Instance in Spring](https://www.baeldung.com/spring-inject-prototype-bean-into-singleton)**
-  -  **[Inject a Map from a YAML File with Spring](https://www.baeldung.com/spring-yaml-inject-map)**
+  - **[Spring Autowiring of Generic Types](https://www.baeldung.com/spring-autowire-generics)**
+  - **[Constructor Injection in Spring with Lombok](https://www.baeldung.com/spring-injection-lombok)**
+  - **[How to use the Spring FactoryBean?](https://www.baeldung.com/spring-factorybean)**
+  - **[@Lookup Annotation in Spring](https://www.baeldung.com/spring-lookup)**
+  - **[Injecting Prototype Beans into a Singleton Instance in Spring](https://www.baeldung.com/spring-inject-prototype-bean-into-singleton)**
+  - **[Inject a Map from a YAML File with Spring](https://www.baeldung.com/spring-yaml-inject-map)**
  
 ## DI Exceptions
   - **[Unsatisfied Dependency in Spring](https://www.baeldung.com/spring-unsatisfied-dependency)**
-  -  **[Circular Dependencies in Spring](https://www.baeldung.com/circular-dependencies-in-spring)**
-  -  **[Spring NoSuchBeanDefinitionException](https://www.baeldung.com/spring-nosuchbeandefinitionexception)**
+  - **[Circular Dependencies in Spring](https://www.baeldung.com/circular-dependencies-in-spring)**
+  - **[Spring NoSuchBeanDefinitionException](https://www.baeldung.com/spring-nosuchbeandefinitionexception)**
 
 ## Jackson
 ## **Basic Jackson Marshalling**
@@ -147,7 +148,7 @@
   - **[JPA @Embedded And @Embeddable](https://www.baeldung.com/jpa-embedded-embeddable)**
   - **[JPA Attribute Converters](https://www.baeldung.com/jpa-attribute-converters)**
   - **[Hibernate @NotNull vs @Column(nullable = false)](https://www.baeldung.com/hibernate-notnull-vs-nullable)**
-  - **[Defining Unique Constraints in JPA**](https://www.baeldung.com/jpa-unique-constraints)**
+  - **[Defining Unique Constraints in JPA](https://www.baeldung.com/jpa-unique-constraints)**
   - **[JPA Entities and the Serializable Interface](https://www.baeldung.com/jpa-entities-serializable)**
   -
 ## Entity Relationships
@@ -177,7 +178,7 @@
   - **[Combining JPA And/Or Criteria Predicates](https://www.baeldung.com/jpa-and-or-criteria-predicates)**
   - **[Criteria API – An Example of IN Expressions](https://www.baeldung.com/jpa-criteria-api-in-expressions)**
   - **[JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)
-  - 
+  
 ## Pagination and Sorting
   - **[Sorting with JPA](https://www.baeldung.com/jpa-sort)**
   - **[JPA Pagination](https://www.baeldung.com/jpa-pagination)**
