@@ -47,6 +47,11 @@
   -  **[XML-Based Injection in Spring](https://www.baeldung.com/spring-xml-injection)**
   -  **[Quick Guide to Spring Bean Scopes](https://www.baeldung.com/spring-bean-scopes)**
 
+
+## Jpa and Hibernate
+- **[java brains_JPA and Hibernate Essentials](https://www.javabrains.io/courses/take/jpa-and-hibernate-essentials/lessons/24784916-agenda)**
+- **[Telusko Hibernate Tutorial | Full Course](https://www.youtube.com/watch?v=JR7-EdxDSf0)**
+- 
 ## DI Advanced Topics
   - **[Spring – Injecting Collections](https://www.baeldung.com/spring-injecting-collections)**
   -  **[Spring Autowiring of Generic Types](https://www.baeldung.com/spring-autowire-generics)**
@@ -60,9 +65,6 @@
   - **[Unsatisfied Dependency in Spring](https://www.baeldung.com/spring-unsatisfied-dependency)**
   -  **[Circular Dependencies in Spring](https://www.baeldung.com/circular-dependencies-in-spring)**
   -  **[Spring NoSuchBeanDefinitionException](https://www.baeldung.com/spring-nosuchbeandefinitionexception)**
-
-## Jpa and Hibernate
-- **[java brains_JPA and Hibernate Essentials](https://www.javabrains.io/courses/take/jpa-and-hibernate-essentials/lessons/24784916-agenda)**
 
 ## Junit 5
   - **[java brains_JUnit Basics](https://www.javabrains.io/courses/take/junit-basics/lessons/11023096-introduction-and-agenda)**
@@ -135,7 +137,7 @@
 -  **[Introduction to PowerMock](https://www.baeldung.com/intro-to-powermock)**
 
 ## Defining Entities
-## **- [** Defining JPA Entities**](https://www.baeldung.com/jpa-entities)
+**- [** Defining JPA Entities**](https://www.baeldung.com/jpa-entities)
   - **[Hibernate Entity Lifecycle](https://www.baeldung.com/hibernate-entity-lifecycle)**
   - [** JPA Entity Lifecycle Events**](https://www.baeldung.com/jpa-entity-lifecycle-events)**
   - [** Default Column Values in JPA**](https://www.baeldung.com/jpa-default-column-values)**
@@ -157,33 +159,32 @@
   - [** Overview of JPA/Hibernate Cascade Types**](https://www.baeldung.com/jpa-cascade-types)
   - [** Hibernate @WhereJoinTable Annotation**](https://www.baeldung.com/hibernate-wherejointable)
   - [** Hibernate Inheritance Mapping**](https://www.baeldung.com/hibernate-inheritance)
-  - [** Hibernate One to Many Annotation Tutorial**](https://www.baeldung.com/hibernate-one-to-many)![series behavior patterns - icon](https://www.baeldung.com/wp-content/uploads/2019/10/icon_series_behavior_patterns.png)
+  - [** Hibernate One to Many Annotation Tutorial**](https://www.baeldung.com/hibernate-one-to-many)
 ## Identifiers
-## - [** An Overview of Identifiers in Hibernate/JPA**](https://www.baeldung.com/hibernate-identifiers)
-  - [** Composite Primary Keys in JPA**](https://www.baeldung.com/jpa-composite-primary-keys)
-  - [** When Does JPA Set the Primary Key**](https://www.baeldung.com/jpa-strategies-when-set-primary-key)![java nio - icon](https://www.baeldung.com/wp-content/uploads/2019/05/icon_java_nio.png)
+  - **[An Overview of Identifiers in Hibernate/JPA](https://www.baeldung.com/hibernate-identifiers)
+  - **[Composite Primary Keys in JPA](https://www.baeldung.com/jpa-composite-primary-keys)
+  - **[When Does JPA Set the Primary Key](https://www.baeldung.com/jpa-strategies-when-set-primary-key)![java nio - icon](https://www.baeldung.com/wp-content/uploads/2019/05/icon_java_nio.png)
 ## Read Operations
-## - [** Types of JPA Queries**](https://www.baeldung.com/jpa-queries)
-  - [** JPA Query Parameters Usage**](https://www.baeldung.com/jpa-query-parameters)
-  - [** Constructing a JPA Query Between Unrelated Entities**](https://www.baeldung.com/jpa-query-unrelated-entities)
-  - [** Working with Lazy Element Collections in JPA**](https://www.baeldung.com/java-jpa-lazy-collections)
-  - [** JPA Join Types**](https://www.baeldung.com/jpa-join-types)
-  - [** FetchMode in Hibernate**](https://www.baeldung.com/hibernate-fetchmode)
-  - [** Hibernate Named Query**](https://www.baeldung.com/hibernate-named-query)![string primitive - icon](https://www.baeldung.com/wp-content/uploads/2019/05/icon_string_-primitive.png)
+  - **[Types of JPA Queries](https://www.baeldung.com/jpa-queries)
+  - **[JPA Query Parameters Usage**](https://www.baeldung.com/jpa-query-parameters)
+  - **[Constructing a JPA Query Between Unrelated Entities**](https://www.baeldung.com/jpa-query-unrelated-entities)
+  - **[Working with Lazy Element Collections in JPA**](https://www.baeldung.com/java-jpa-lazy-collections)
+  - **[JPA Join Types**](https://www.baeldung.com/jpa-join-types)
+  - **[FetchMode in Hibernate](https://www.baeldung.com/hibernate-fetchmode)
+  - **[Hibernate Named Query](https://www.baeldung.com/hibernate-named-query)![string primitive - icon](https://www.baeldung.com/wp-content/uploads/2019/05/icon_string_-primitive.png)
 ## Query Criteria
-## - [** Combining JPA And/Or Criteria Predicates**](https://www.baeldung.com/jpa-and-or-criteria-predicates)
-  - [** Criteria API – An Example of IN Expressions**](https://www.baeldung.com/jpa-criteria-api-in-expressions)
-  - [** JPA Criteria Queries**](https://www.baeldung.com/hibernate-criteria-queries)![series other patterns - icon](https://www.baeldung.com/wp-content/uploads/2019/10/icon_series_other_patterns.png)
+  - **[Combining JPA And/Or Criteria Predicates](https://www.baeldung.com/jpa-and-or-criteria-predicates)
+  - **[Criteria API – An Example of IN Expressions](https://www.baeldung.com/jpa-criteria-api-in-expressions)
+  - **[JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)
 ## Pagination and Sorting
-## - [** Sorting with JPA**](https://www.baeldung.com/jpa-sort)
-  - [** JPA Pagination**](https://www.baeldung.com/jpa-pagination)
-  - [** Hibernate Pagination**](https://www.baeldung.com/hibernate-pagination)
-  - [** JPA Criteria Queries**](https://www.baeldung.com/hibernate-criteria-queries)
+  - **[Sorting with JPA](https://www.baeldung.com/jpa-sort)
+  - **[JPA Pagination](https://www.baeldung.com/jpa-pagination)
+  - **[Hibernate Pagination](https://www.baeldung.com/hibernate-pagination)
+  - **[JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)
   - 
 ## Query Results
-  [** A Guide to SqlResultSetMapping**](https://www.baeldung.com/jpa-sql-resultset-mapping)
-  - [** Customizing the Result of JPA Queries with Aggregation Functions**](https://www.baeldung.com/jpa-queries-custom-result-with-aggregation-functions)
-  - 
+  - **[A Guide to SqlResultSetMapping](https://www.baeldung.com/jpa-sql-resultset-mapping)
+  - **[Customizing the Result of JPA Queries with Aggregation Functions](https://www.baeldung.com/jpa-queries-custom-result-with-aggregation-functions)
 ## Write Operations
   - **[INSERT Statement in JPA](https://www.baeldung.com/jpa-insert)**
   - **[Batch Insert/Update with Hibernate/JPA](https://www.baeldung.com/jpa-hibernate-batch-insert-update)**
