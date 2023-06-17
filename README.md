@@ -1,3 +1,20 @@
+## Spring Core Basics
+- **[Why Choose Spring as Your Java Framework?](https://www.baeldung.com/spring-why-to-choose)**
+- **[Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)**
+- **[Constructor Dependency Injection in Spring](https://www.baeldung.com/constructor-injection-in-spring)**
+- **[What is a Spring Bean?](https://www.baeldung.com/spring-bean)**
+- **[Spring Bean Scopes](https://www.baeldung.com/spring-bean-scopes)**
+- **[Spring Bean Annotations](https://www.baeldung.com/spring-bean-annotations)**
+- **[Spring @Autowired Annotation](https://www.baeldung.com/spring-autowire)**
+- **[Wiring in Spring: @Autowired, @Resource and @Inject](https://www.baeldung.com/spring-annotations-resource-inject-autowire)**
+- **[Spring @Qualifier Annotation](https://www.baeldung.com/spring-qualifier-annotation)**
+- **[@Component vs @Repository and @Service in Spring](https://www.baeldung.com/spring-component-repository-service)**
+- **[Properties with Spring](https://www.baeldung.com/properties-with-spring)(popular)**
+- **[Spring @Value Annotation](https://www.baeldung.com/spring-value-annotation)**
+- **[Spring Profiles](https://www.baeldung.com/spring-profiles)(popular)**
+- **[Spring @Scheduled Annotation](https://www.baeldung.com/spring-scheduled-tasks)**
+- **[Java Brains Spring Tutorial](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)**
+
 ## REST API Basics
   -  **[java_brains_Spring Boot Quick Start 1 - Introduction](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)**
   -  **[Course/spring-boot-and-spring-framework-tutorial](https://gale.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/learn/lecture/30797880#overview)**
@@ -77,23 +94,6 @@
   - **[Unsatisfied Dependency in Spring](https://www.baeldung.com/spring-unsatisfied-dependency)**
   -  **[Circular Dependencies in Spring](https://www.baeldung.com/circular-dependencies-in-spring)**
   -  **[Spring NoSuchBeanDefinitionException](https://www.baeldung.com/spring-nosuchbeandefinitionexception)**
--  
-## Spring Core Basics
-- **[Why Choose Spring as Your Java Framework?](https://www.baeldung.com/spring-why-to-choose)**
-- **[Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)**
-- **[Constructor Dependency Injection in Spring](https://www.baeldung.com/constructor-injection-in-spring)**
-- **[What is a Spring Bean?](https://www.baeldung.com/spring-bean)**
-- **[Spring Bean Scopes](https://www.baeldung.com/spring-bean-scopes)**
-- **[Spring Bean Annotations](https://www.baeldung.com/spring-bean-annotations)**
-- **[Spring @Autowired Annotation](https://www.baeldung.com/spring-autowire)**
-- **[Wiring in Spring: @Autowired, @Resource and @Inject](https://www.baeldung.com/spring-annotations-resource-inject-autowire)**
-- **[Spring @Qualifier Annotation](https://www.baeldung.com/spring-qualifier-annotation)**
-- **[@Component vs @Repository and @Service in Spring](https://www.baeldung.com/spring-component-repository-service)**
-- **[Properties with Spring](https://www.baeldung.com/properties-with-spring)(popular)**
-- **[Spring @Value Annotation](https://www.baeldung.com/spring-value-annotation)**
-- **[Spring Profiles](https://www.baeldung.com/spring-profiles)(popular)**
-- **[Spring @Scheduled Annotation](https://www.baeldung.com/spring-scheduled-tasks)**
-- **[Java Brains Spring Tutorial](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)**
 
 ## Jackson
 ## **Basic Jackson Marshalling**
@@ -136,21 +136,22 @@
 -  **[Introduction to PowerMock](https://www.baeldung.com/intro-to-powermock)**
 
 ## Defining Entities
-**- [** Defining JPA Entities**](https://www.baeldung.com/jpa-entities)
+  - **[Defining JPA Entities](https://www.baeldung.com/jpa-entities)
   - **[Hibernate Entity Lifecycle](https://www.baeldung.com/hibernate-entity-lifecycle)**
-  - [** JPA Entity Lifecycle Events**](https://www.baeldung.com/jpa-entity-lifecycle-events)**
-  - [** Default Column Values in JPA**](https://www.baeldung.com/jpa-default-column-values)**
-  - [** JPA @Basic Annotation**](https://www.baeldung.com/jpa-basic-annotation)**
-  - [** Mapping Entity Class Names to SQL Table Names with JPA**](https://www.baeldung.com/jpa-entity-table-names)**
-  - [** Difference Between @Size, @Length, and @Column(length=value)**](https://www.baeldung.com/jpa-size-length-column-differences)**
-  - [** JPA Entity Equality**](https://www.baeldung.com/jpa-entity-equality)**
-  - [** JPA @Embedded And @Embeddable**](https://www.baeldung.com/jpa-embedded-embeddable)**
-  - [** JPA Attribute Converters**](https://www.baeldung.com/jpa-attribute-converters)**
-  - [** Hibernate @NotNull vs @Column(nullable = false)**](https://www.baeldung.com/hibernate-notnull-vs-nullable)**
+  - **[JPA Entity Lifecycle Events](https://www.baeldung.com/jpa-entity-lifecycle-events)**
+  - **[Default Column Values in JPA](https://www.baeldung.com/jpa-default-column-values)**
+  - **[JPA @Basic Annotation](https://www.baeldung.com/jpa-basic-annotation)**
+  - **[Mapping Entity Class Names to SQL Table Names with JPA](https://www.baeldung.com/jpa-entity-table-names)**
+  - **[Difference Between @Size, @Length, and @Column(length=value)](https://www.baeldung.com/jpa-size-length-column-differences)**
+  - **[JPA Entity Equality](https://www.baeldung.com/jpa-entity-equality)**
+  - **[JPA @Embedded And @Embeddable](https://www.baeldung.com/jpa-embedded-embeddable)**
+  - **[JPA Attribute Converters](https://www.baeldung.com/jpa-attribute-converters)**
+  - **[Hibernate @NotNull vs @Column(nullable = false)](https://www.baeldung.com/hibernate-notnull-vs-nullable)**
   - **[Defining Unique Constraints in JPA**](https://www.baeldung.com/jpa-unique-constraints)**
   - **[JPA Entities and the Serializable Interface](https://www.baeldung.com/jpa-entities-serializable)**
+  -
 ## Entity Relationships
-## - [** One-to-One Relationship in JPA**](https://www.baeldung.com/jpa-one-to-one)
+  - [** One-to-One Relationship in JPA**](https://www.baeldung.com/jpa-one-to-one)
   - [** Many-To-Many Relationship in JPA**](https://www.baeldung.com/jpa-many-to-many)
   - [** @JoinColumn Annotation Explained**](https://www.baeldung.com/jpa-join-column)
   - [** Difference Between @JoinColumn and mappedBy**](https://www.baeldung.com/jpa-joincolumn-vs-mappedby)
@@ -159,10 +160,12 @@
   - [** Hibernate @WhereJoinTable Annotation**](https://www.baeldung.com/hibernate-wherejointable)
   - [** Hibernate Inheritance Mapping**](https://www.baeldung.com/hibernate-inheritance)
   - [** Hibernate One to Many Annotation Tutorial**](https://www.baeldung.com/hibernate-one-to-many)
+  
 ## Identifiers
   - **[An Overview of Identifiers in Hibernate/JPA](https://www.baeldung.com/hibernate-identifiers)**
   - **[Composite Primary Keys in JPA](https://www.baeldung.com/jpa-composite-primary-keys)**
   - **[When Does JPA Set the Primary Key](https://www.baeldung.com/jpa-strategies-when-set-primary-key)**
+  
 ## Read Operations
   - **[Types of JPA Queries](https://www.baeldung.com/jpa-queries)**
   - **[JPA Query Parameters Usage](https://www.baeldung.com/jpa-query-parameters)**
@@ -174,6 +177,7 @@
   - **[Combining JPA And/Or Criteria Predicates](https://www.baeldung.com/jpa-and-or-criteria-predicates)**
   - **[Criteria API – An Example of IN Expressions](https://www.baeldung.com/jpa-criteria-api-in-expressions)**
   - **[JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)
+  - 
 ## Pagination and Sorting
   - **[Sorting with JPA](https://www.baeldung.com/jpa-sort)**
   - **[JPA Pagination](https://www.baeldung.com/jpa-pagination)**
@@ -181,8 +185,9 @@
   - **[JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)**
   - 
 ## Query Results
-  - **[A Guide to SqlResultSetMapping](https://www.baeldung.com/jpa-sql-resultset-mapping)
-  - **[Customizing the Result of JPA Queries with Aggregation Functions](https://www.baeldung.com/jpa-queries-custom-result-with-aggregation-functions)
+  - **[A Guide to SqlResultSetMapping](https://www.baeldung.com/jpa-sql-resultset-mapping)**
+  - **[Customizing the Result of JPA Queries with Aggregation Functions](https://www.baeldung.com/jpa-queries-custom-result-with-aggregation-functions)**
+  
 ## Write Operations
   - **[INSERT Statement in JPA](https://www.baeldung.com/jpa-insert)**
   - **[Batch Insert/Update with Hibernate/JPA](https://www.baeldung.com/jpa-hibernate-batch-insert-update)**
