@@ -83,8 +83,8 @@
 -  **[Mockito Verify Cookbook](https://www.baeldung.com/mockito-verify)(popular)**
 
 ## DI Advanced Topics
-  - **[Spring – Injecting Collections](https://www.baeldung.com/spring-injecting-collections)**
   - **[Spring Autowiring of Generic Types](https://www.baeldung.com/spring-autowire-generics)**
+  - **[Spring – Injecting Collections](https://www.baeldung.com/spring-injecting-collections)**
   - **[Constructor Injection in Spring with Lombok](https://www.baeldung.com/spring-injection-lombok)**
   - **[How to use the Spring FactoryBean?](https://www.baeldung.com/spring-factorybean)**
   - **[@Lookup Annotation in Spring](https://www.baeldung.com/spring-lookup)**
