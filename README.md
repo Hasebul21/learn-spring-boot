@@ -96,7 +96,6 @@
   - **[Circular Dependencies in Spring](https://www.baeldung.com/circular-dependencies-in-spring)**
   - **[Spring NoSuchBeanDefinitionException](https://www.baeldung.com/spring-nosuchbeandefinitionexception)**
 
-## Jackson
 ## **Basic Jackson Marshalling**
 - **[Jackson Annotation Examples](https://www.baeldung.com/jackson-annotations)(popular)**
 - **[Intro to the Jackson ObjectMapper](https://www.baeldung.com/jackson-object-mapper-tutorial)(popular)**
@@ -152,15 +151,15 @@
   - **[JPA Entities and the Serializable Interface](https://www.baeldung.com/jpa-entities-serializable)**
   
 ## Entity Relationships
-  - [** One-to-One Relationship in JPA**](https://www.baeldung.com/jpa-one-to-one)
-  - [** Many-To-Many Relationship in JPA**](https://www.baeldung.com/jpa-many-to-many)
-  - [** @JoinColumn Annotation Explained**](https://www.baeldung.com/jpa-join-column)
-  - [** Difference Between @JoinColumn and mappedBy**](https://www.baeldung.com/jpa-joincolumn-vs-mappedby)
-  - [** Mapping a Single Entity to Multiple Tables in JPA**](https://www.baeldung.com/jpa-mapping-single-entity-to-multiple-tables)
-  - [** Overview of JPA/Hibernate Cascade Types**](https://www.baeldung.com/jpa-cascade-types)
-  - [** Hibernate @WhereJoinTable Annotation**](https://www.baeldung.com/hibernate-wherejointable)
-  - [** Hibernate Inheritance Mapping**](https://www.baeldung.com/hibernate-inheritance)
-  - [** Hibernate One to Many Annotation Tutorial**](https://www.baeldung.com/hibernate-one-to-many)
+  - **[One-to-One Relationship in JPA](https://www.baeldung.com/jpa-one-to-one)**
+  - **[Many-To-Many Relationship in JPA](https://www.baeldung.com/jpa-many-to-many)**
+  - **[@JoinColumn Annotation Explained](https://www.baeldung.com/jpa-join-column)**
+  - **[Difference Between @JoinColumn and mappedBy](https://www.baeldung.com/jpa-joincolumn-vs-mappedby)**
+  - **[Mapping a Single Entity to Multiple Tables in JPA](https://www.baeldung.com/jpa-mapping-single-entity-to-multiple-tables)**
+  - **[Overview of JPA/Hibernate Cascade Types](https://www.baeldung.com/jpa-cascade-types)**
+  - **[Hibernate @WhereJoinTable Annotation](https://www.baeldung.com/hibernate-wherejointable)**
+  - **[Hibernate Inheritance Mapping](https://www.baeldung.com/hibernate-inheritance)**
+  - **[Hibernate One to Many Annotation Tutorial](https://www.baeldung.com/hibernate-one-to-many)**
   
 ## Identifiers
   - **[An Overview of Identifiers in Hibernate/JPA](https://www.baeldung.com/hibernate-identifiers)**
