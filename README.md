@@ -18,6 +18,7 @@
 ## REST API Basics
   -  **[java_brains_Spring Boot Quick Start 1 - Introduction](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)**
   -  **[Course/spring-boot-and-spring-framework-tutorial](https://gale.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/learn/lecture/30797880#overview)**
+  -  **[Java brains Introduction to AOP](https://www.youtube.com/watch?v=QdyLsX0nG30&list=PLE37064DE302862F8)**
   -  **[The Spring @Controller and @RestController Annotations](https://www.baeldung.com/spring-controller-vs-restcontroller)**
   -  **[Spring’s RequestBody and ResponseBody Annotations](https://www.baeldung.com/spring-request-response-body)**
   -  **[Spring @PathVariable Annotation](https://www.baeldung.com/spring-pathvariable)**
